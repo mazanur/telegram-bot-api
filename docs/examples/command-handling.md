@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+	tgbotapi "github.com/mazanur/telegram-bot-api/v5"
 )
 
 func main() {
